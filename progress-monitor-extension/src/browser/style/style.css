@@ -1,0 +1,11 @@
+.progress-monitor-item p, .progress-monitor-item h4 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.progress-monitor-item { 
+    width: 99%;
+    height: 5em;
+    margin: 0.5%;
+    background: yellow;
+}
